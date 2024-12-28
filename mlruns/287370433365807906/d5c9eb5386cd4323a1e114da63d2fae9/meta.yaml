@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLFlow_Demo/mlruns/287370433365807906/d5c9eb5386cd4323a1e114da63d2fae9/artifacts
+end_time: 1735364278206
+entry_point_name: ''
+experiment_id: '287370433365807906'
+lifecycle_stage: active
+run_id: d5c9eb5386cd4323a1e114da63d2fae9
+run_name: languid-carp-944
+run_uuid: d5c9eb5386cd4323a1e114da63d2fae9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735364278073
+status: 3
+tags: []
+user_id: HP

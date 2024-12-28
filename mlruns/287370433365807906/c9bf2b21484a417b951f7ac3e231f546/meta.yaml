@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLFlow_Demo/mlruns/287370433365807906/c9bf2b21484a417b951f7ac3e231f546/artifacts
+end_time: 1735363413061
+entry_point_name: ''
+experiment_id: '287370433365807906'
+lifecycle_stage: active
+run_id: c9bf2b21484a417b951f7ac3e231f546
+run_name: calm-croc-676
+run_uuid: c9bf2b21484a417b951f7ac3e231f546
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735363412966
+status: 3
+tags: []
+user_id: HP

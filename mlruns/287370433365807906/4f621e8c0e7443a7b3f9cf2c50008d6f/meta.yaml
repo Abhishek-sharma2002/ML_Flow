@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLFlow_Demo/mlruns/287370433365807906/4f621e8c0e7443a7b3f9cf2c50008d6f/artifacts
+end_time: 1735364048306
+entry_point_name: ''
+experiment_id: '287370433365807906'
+lifecycle_stage: active
+run_id: 4f621e8c0e7443a7b3f9cf2c50008d6f
+run_name: clean-ant-749
+run_uuid: 4f621e8c0e7443a7b3f9cf2c50008d6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735364048201
+status: 3
+tags: []
+user_id: HP
