@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1735631636316
+current_stage: None
+description: ''
+last_updated_timestamp: 1735631636316
+name: Iris_model_prediction
+run_id: 4ae25caf20b94eeaa84a27005ff07a0f
+run_link: ''
+source: mlflow-artifacts:/376226298226991565/4ae25caf20b94eeaa84a27005ff07a0f/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/376226298226991565/4ae25caf20b94eeaa84a27005ff07a0f/artifacts/model
+user_id: null
+version: 1

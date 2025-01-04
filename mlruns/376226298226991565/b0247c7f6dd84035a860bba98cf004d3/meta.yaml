@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/376226298226991565/b0247c7f6dd84035a860bba98cf004d3/artifacts
+end_time: 1735631325743
+entry_point_name: ''
+experiment_id: '376226298226991565'
+lifecycle_stage: active
+run_id: b0247c7f6dd84035a860bba98cf004d3
+run_name: illustrious-wolf-891
+run_uuid: b0247c7f6dd84035a860bba98cf004d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735631325585
+status: 4
+tags: []
+user_id: HP

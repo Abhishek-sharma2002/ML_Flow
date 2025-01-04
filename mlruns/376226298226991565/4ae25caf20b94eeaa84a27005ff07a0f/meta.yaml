@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/376226298226991565/4ae25caf20b94eeaa84a27005ff07a0f/artifacts
+end_time: 1735631501087
+entry_point_name: ''
+experiment_id: '376226298226991565'
+lifecycle_stage: active
+run_id: 4ae25caf20b94eeaa84a27005ff07a0f
+run_name: smiling-wasp-552
+run_uuid: 4ae25caf20b94eeaa84a27005ff07a0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735631489777
+status: 3
+tags: []
+user_id: HP

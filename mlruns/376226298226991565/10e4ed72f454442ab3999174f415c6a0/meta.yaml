@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/376226298226991565/10e4ed72f454442ab3999174f415c6a0/artifacts
+end_time: 1735631339899
+entry_point_name: ''
+experiment_id: '376226298226991565'
+lifecycle_stage: active
+run_id: 10e4ed72f454442ab3999174f415c6a0
+run_name: agreeable-wasp-385
+run_uuid: 10e4ed72f454442ab3999174f415c6a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735631339746
+status: 3
+tags: []
+user_id: HP
